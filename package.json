@@ -37,7 +37,7 @@
   ],
   "dependencies": {
     "cspell": "^5.4.1",
-    "got": "^11.8.2"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@ava/typescript": "^2.0.0",
